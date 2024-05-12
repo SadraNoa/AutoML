@@ -3,4 +3,4 @@ pandas
 pycaret 
 plotly 
 streamlit_pandas_profiling
-pandas_profiling
+pandas-profiling==3.4.0
