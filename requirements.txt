@@ -1,1 +1,6 @@
-
+pandas
+seaborn
+scikit-learn
+xgboost
+streamlit
+matplotlib
