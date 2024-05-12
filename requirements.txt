@@ -12,6 +12,8 @@ matplotlib
 
 plotly-express
 
+pycaret.regression
+
 pycaret[full]
 
 pandas_profiling
