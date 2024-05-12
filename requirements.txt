@@ -2,4 +2,4 @@ streamlit
 pandas 
 pycaret 
 plotly 
-pandas-profiling
+pandas_profiling
