@@ -1,6 +1,6 @@
 streamlit
-pandas 
-pycaret 
-plotly 
+plotly==5.10.0
+pycaret==2.3.10
 pandas-profiling
+pandas
 streamlit-pandas-profiling
