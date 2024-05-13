@@ -1,6 +1,6 @@
-streamlit
-plotly
-pycaret
-pandas-profiling
-pandas
-streamlit-pandas-profiling
+streamlit==1.33.0
+plotly==5.21.0
+pycaret==3.3.1
+pandas-profiling==3.6.5
+pandas==2.2.1
+streamlit-pandas-profiling==0.1.3
