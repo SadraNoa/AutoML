@@ -1,7 +1,11 @@
 streamlit
+
 plotly
+
 pycaret
 
-pandas-profiling==3.4.0
+pandas-profiling
+
 pandas==2.2.1
+
 streamlit-pandas-profiling==0.1.3
